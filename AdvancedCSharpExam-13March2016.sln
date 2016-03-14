@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.ArrangeIntegers-OneExpre
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.Monopoly", "02.Monopoly\02.Monopoly.csproj", "{AA3ACD1A-DCD4-491C-8F80-D03BC2146FB4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.ChampionsLeague-OOPSolution", "04.ChampionsLeague-OOPSolution\04.ChampionsLeague-OOPSolution.csproj", "{278ADD68-DE45-43E0-B675-AEA1CBB77D7A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{AA3ACD1A-DCD4-491C-8F80-D03BC2146FB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AA3ACD1A-DCD4-491C-8F80-D03BC2146FB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AA3ACD1A-DCD4-491C-8F80-D03BC2146FB4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{278ADD68-DE45-43E0-B675-AEA1CBB77D7A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{278ADD68-DE45-43E0-B675-AEA1CBB77D7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{278ADD68-DE45-43E0-B675-AEA1CBB77D7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{278ADD68-DE45-43E0-B675-AEA1CBB77D7A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
